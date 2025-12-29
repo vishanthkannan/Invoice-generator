@@ -41,7 +41,7 @@ function App() {
 
     doc.setFont("times", "normal");
     doc.setFontSize(12);
-    doc.text("ENGINEERING & MAINTENANCE WORKS", 60, 42);
+    doc.text("CREATING THE WONDERS", 60, 42);
 
     doc.setFont("times", "bold");
     doc.setFontSize(11);
